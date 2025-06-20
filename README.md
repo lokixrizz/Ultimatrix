@@ -73,14 +73,5 @@ pip install numpy pandas matplotlib scikit-learn jupyter
 2. Open the desired notebook (e.g., `K_MeansClustering.ipynb` or `Linear_Regression.ipynb`).
 3. Run the cells to follow along with the explanations and visualizations.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for improvements, bug fixes, or new features.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 *Happy Learning!*
