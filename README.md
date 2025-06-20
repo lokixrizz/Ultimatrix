@@ -43,7 +43,7 @@ This repository contains Jupyter notebooks that demonstrate the implementation a
 To get started, clone this repository and open the notebooks in Jupyter Notebook or JupyterLab.
 
 ```bash
-git clone https://github.com/your-username/Ultimatrix.git
+git clone https://github.com/lokixrizz/Ultimatrix.git
 cd Ultimatrix-main
 ```
 
