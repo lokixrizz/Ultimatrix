@@ -74,4 +74,4 @@ pip install numpy pandas matplotlib scikit-learn jupyter
 3. Run the cells to follow along with the explanations and visualizations.
 
 
-*Happy Learning!*
+> *Happy Learning!*
